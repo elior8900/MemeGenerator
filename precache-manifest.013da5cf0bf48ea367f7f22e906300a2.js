@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "756a5ae8c81b97e18b4b84af745ee494",
+    "revision": "1e811764ed6ed15f66ebe202c6fe10de",
     "url": "/MemeGenerator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MemeGenerator/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "441d3738b5698dc9da79",
+    "revision": "1bdc0e8d2df1129950aa",
     "url": "/MemeGenerator/static/css/main.d5af8450.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MemeGenerator/static/js/2.91e18315.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "441d3738b5698dc9da79",
-    "url": "/MemeGenerator/static/js/main.2178841b.chunk.js"
+    "revision": "1bdc0e8d2df1129950aa",
+    "url": "/MemeGenerator/static/js/main.78fcf716.chunk.js"
   },
   {
     "revision": "7af5d79ff44883e93d0e",
